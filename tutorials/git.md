@@ -101,6 +101,3 @@
     $$git log$$  
     для просмотра списка сделанных коммитов и деталей изменений.
 
-
----
-Answer from Perplexity: pplx.ai/share
